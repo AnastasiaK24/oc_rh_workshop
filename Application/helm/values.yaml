@@ -3,7 +3,7 @@ ReplicaNumber: 1
 containers:
   containerPort: 8080
   image: 'quay.io/anastasia_klimov/oc_rh_workshop1'
-  tag: 'chart_v2'
+  tag: 'chart_v3'
 
 service:
   servicePort: 8080
